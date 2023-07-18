@@ -22,6 +22,6 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	printf("putchar\n");
-
+	
 	return (0);
 }
