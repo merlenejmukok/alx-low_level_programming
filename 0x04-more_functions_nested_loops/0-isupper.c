@@ -1,4 +1,4 @@
-#include "main.h"
+#ifdef MAIN_H
 
 /**
  * _isupper - uppercase letters
